@@ -1,0 +1,7 @@
+echo "# w55" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wudashi11111/w55.git
+git push -u origin main
